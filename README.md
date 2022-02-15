@@ -7,7 +7,7 @@ springboot项目，如果选择etcd作为配置中心，由于只有jetcd客户�
 ### 1.maven配置
 ```xml
 <dependency>  
-    <groupId>com.zzl</groupId>
+    <groupId>com.giimall</groupId>
     <artifactId>etcd-config-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
